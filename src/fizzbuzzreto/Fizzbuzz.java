@@ -2,7 +2,7 @@ package fizzbuzzreto;
 
 public class FizzBuzz {
     public static void main(String[] args) {
-        FizzBuzzGame game = new FizzBuzzGame();
+        FizzBuzzPrueba game = new FizzBuzzPrueba();
         game.play(1, 100);
     }
 }
